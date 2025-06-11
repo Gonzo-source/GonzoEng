@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I'm currently studying electrical engineering<br>
+⚡electrical engineering tech major<br>
 
 
 ## 🌐 Socials:
