@@ -1,24 +1,57 @@
-# 💫 About Me:
-⚡electrical engineering tech major<br>
+# Hi there, I'm Gonzo 👋
 
+I'm an electrical engineering student
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/477334716324904973) 
+- 🌱 I’m currently learning... [PCBs and soldering]
+- 💬 Ask me about... Anything on my tech stack!
+- 📫 How to reach me: [your-email@example.com]
+- 😄 Pronouns: He/Him
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<br />
 
-![](https://github-readme-stats.vercel.app/api?username=Gonzo-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gonzo-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzo-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ My Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+This stack represents my diverse experience, from web development and systems programming to scripting and automation.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gonzo-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,lua,perl" />
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Gonzo-1&icon=0&color=0)](https://visitcount.itsvg.in)
+<br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"
+  />
+</p>
+
+<br />
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="your-linkedin-username" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="30" width="40" />
+  </a>
+  <a href="https://YOUR_PERSONAL_WEBSITE.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="your-website-url" height="30" width="40" />
+  </a>
+</p>
+
+<br />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=blueviolet" alt="profile visitors" /> 
+</p>
