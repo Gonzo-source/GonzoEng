@@ -1,17 +1,12 @@
 # Hi there, I'm Gonzo 👋
 
-I'm an electrical engineering student
-
-- 🌱 I’m currently learning... PCBs and soldering
-- 💬 Ask me about... Anything on my tech stack!
-- 📫 How to reach me: Don't
-- 😄 Pronouns: He/Him
+I'm an electrical engineering major * zap* * zap*
 
 <br />
 
 ## 🛠️ My Tech Stack
 
-This stack represents my diverse experience, spanning web development, systems programming, scripting, and automation.
+I'm just doing stuff with this and learning more.
 
 <p align="left">
   <a href="https://skillicons.dev">
