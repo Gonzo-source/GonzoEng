@@ -4,7 +4,7 @@ I'm an electrical engineering major * zap* * zap*
 
 <br />
 
-## 🛠️ My Tech Stack
+## 🛠️ My Experiences
 
 I'm just doing stuff with this and learning more.
 
