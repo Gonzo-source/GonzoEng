@@ -6,7 +6,7 @@ I'm an electrical engineering major * zap* * zap*
 
 ## 🛠️ My Experiences
 
-I'm just doing stuff with this and learning more.
+I'm just doing stuff with this and learning more, mostly learning
 
 <p align="left">
   <a href="https://skillicons.dev">
