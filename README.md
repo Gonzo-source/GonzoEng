@@ -2,17 +2,7 @@
 
 I'm an electrical engineering major * zap* * zap*
 
-<br />
-
-## 🛠️ My Experiences
-
-I'm just doing stuff with this and learning more, mostly learning
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,lua,perl" />
-  </a>
-</p>
+Just doing stuff.
 
 <br />
 
